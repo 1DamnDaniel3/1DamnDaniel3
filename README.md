@@ -77,6 +77,13 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/1DamnDaniel3/zaprLauncher">
+    <img src="https://img.shields.io/badge/ZaprLauncher-View-4CAF50?style=for-the-badge" />
+  </a>
+</p>
+
 <p align="center">
   Desktop UI for zapret / network tools
 </p>
