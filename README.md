@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,postgresql,git,docker,jenkins, redis, react, redux"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,postgresql,git,docker,jenkins,redis,react,redux"/>
   </a>
 </p>
