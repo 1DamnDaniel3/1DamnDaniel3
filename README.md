@@ -71,6 +71,16 @@
 
 ## Pet projects:
 
+<table>
+  <tr align="center">
+    <td><img src="assets/catJump.gif" width="100%"  aling="center"></img></td>
+    <td><img src="assets/brokenMatrix.gif" width="75%"  aling="center"></img></td>
+    <td><img src="assets/catJump.gif" width="100%"  aling="center"></img></td>
+  </tr>
+</table>
+  
+
+
 <p align="center">
   <a href="https://github.com/1DamnDaniel3/ZaprUI">
     <img src="https://img.shields.io/badge/ZaprUI-View-4CAF50?style=for-the-badge" />
