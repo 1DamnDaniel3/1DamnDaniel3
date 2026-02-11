@@ -2,7 +2,7 @@
 ### My stack is: 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,postgresql,git,docker,jenkins,bash,redis,react,redux,?theme=dark"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,postgresql,git,docker,jenkins,bash,redis,swagger,react,redux,?theme=dark"/>
   </a>
 </p>
 <div align="center">
@@ -17,6 +17,7 @@
               - Golang<br>
               - PostgreSQL<br>
               - Redis<br>
+              - Swagger<br>
               - Docker<br>
               - CI/CD (Jenkins)<br>
               - Bash
