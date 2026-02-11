@@ -57,6 +57,8 @@
       </td>
       <td>
         - Code scinse 2019. <br>
+        - 23 y.o.<br>
+        - Russian, English<br>
         - Graduate of the Don State Technical University (class of 2025 | Applied computer science) <br>
         - Main lang: Go <br>
         - Additional: JavaScript(&& TS), Python <br>
