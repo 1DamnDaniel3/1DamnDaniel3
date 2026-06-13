@@ -17,6 +17,7 @@
               - Golang<br>
               - Gorm<br>
               - Gin<br>
+              - Kafka<br>
               - PostgreSQL<br>
               - Redis<br>
               - Swagger<br>
