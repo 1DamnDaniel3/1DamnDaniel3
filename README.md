@@ -19,6 +19,7 @@
               - Gin<br>
               - Kafka<br>
               - PostgreSQL<br>
+              - MongoDB<br>
               - Redis<br>
               - Swagger<br>
               - Docker<br>
